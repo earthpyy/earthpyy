@@ -1,4 +1,4 @@
-# Hi there 👋
+![hello there](header.png)
 
 I'm a software developer with passion. Mostly developing web applications from Django REST + Angular. I also maintain some Django libraries. Feel free to explore them below!
 
