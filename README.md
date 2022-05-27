@@ -19,7 +19,7 @@ I'm a software developer with passion. Mostly developing web applications from D
 
 # Stats
 
-![StackOverflow stats](https://stackoverflow-readme-profile.johannchopin.fr/profile/7930117?theme=dark)
+[![StackOverflow stats](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/7930117?theme=dark)](https://stackoverflow.com/users/7930117/preeti-y)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=earthpyy&count_private=true&show_icons=true&theme=radical)
 
