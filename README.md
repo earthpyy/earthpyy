@@ -19,6 +19,8 @@ I'm a software developer with passion. Mostly developing web applications from D
 
 # Stats
 
+![StackOverflow stats](https://stackoverflow-readme-profile.johannchopin.fr/profile/7930117?theme=dark)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=earthpyy&count_private=true&show_icons=true&theme=radical)
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=earthpyy&theme=radical&layout=compact)
