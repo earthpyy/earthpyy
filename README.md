@@ -7,11 +7,11 @@ I'm a software developer with passion. Mostly developing web applications from D
 - 🍎 macOS Lover
 - ⚫️ Dark mode preferred
 - 👨‍💻 I’m currently working at [@C0D1UM](https://github.com/C0D1UM) as a Software Consultant
-- 🌱 I'm currently interesting in Web Application Development, DevOps, and Automation!
-- 🏠 I'm living in Bangkok, Thailand. My home town is Khon Kaen, Thailand.
+- 🌱 I'm currently interesting in Web Application Development, DevOps, Data Engineering, and Automation!
+- 🏠 I'm living in Bangkok, but my home town is in Khon Kaen, Thailand.
 - 🎓 I was studied in Computer Engineering at King Mongkut's Institute of Technology Ladkrabang, Bangkok, Thailand.
-- 🤔 My hobby was coding, but after getting a full-time coding job, I'm not sure what is my hobby anymore, lol.
-- 📫 You can reach me at [earthpyy.com](https://earthpyy.com).
+- 🤔 My hobby was coding, but after getting a full-time coding job, I'm not sure what is my hobby anymore lol.
+- 📫 You can reach me at [earthpyy.me](https://earthpyy.me).
 
 # Stacks
 
