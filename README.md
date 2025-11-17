@@ -7,7 +7,7 @@ I'm a software developer with passion. Mostly developing web applications from D
 - 🍎 Apple fan
 - ⚫️ Dark mode preferred
 - 👨‍💻 I’m currently working at [@C0D1UM](https://github.com/C0D1UM) as a Senior Software Development Consultant II
-- 🌱 Interesting in Web Application Development, DevSecOps, and automation.
+- 🌱 Interested in Web Application Development, DevSecOps, and automation.
 - 🏠 Living in Bangkok. Born in Khon Kaen, Thailand.
 - 🎓 Graduated in Computer Engineering from King Mongkut's Institute of Technology Ladkrabang, Bangkok.
 - 📫 You can reach me at [earthpyy.me](https://earthpyy.me)!
